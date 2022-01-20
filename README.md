@@ -1,2 +1,2 @@
 # SaleJuice.github.io
-This is a repository for my website.
+This is a repository for my naive website.
